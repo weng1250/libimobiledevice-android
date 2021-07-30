@@ -1,21 +1,21 @@
 [submodule "libiconv-android"]
 	path = libiconv-android
-	url = https://github.com/xxDroid/libiconv-android.git
+	url = https://github.com/tguillem/android-libiconv.git
 [submodule "libxml2-android"]
 	path = libxml2-android
-	url = https://github.com/xxDroid/libxml2-android.git
+	url = https://github.com/CyanogenMod/android_external_libxml2.git
 [submodule "openssl-android"]
 	path = openssl-android
-	url = https://github.com/xxDroid/openssl-android.git
+	url = https://github.com/eighthave/openssl-android.git
 [submodule "libzip-android"]
 	path = libzip-android
-	url = https://github.com/xxDroid/libzip-android.git
+	url = https://github.com/julienr/libzip-android.git
 [submodule "ideviceinstaller"]
 	path = ideviceinstaller
 	url = https://github.com/libimobiledevice/ideviceinstaller.git
 [submodule "libfuse-android"]
 	path = libfuse-android
-	url = https://github.com/xxDroid/libfuse-android.git
+	url = https://github.com/Vayu/libfuse-android
 [submodule "libplist"]
 	path = libplist
 	url = https://github.com/libimobiledevice/libplist.git
