@@ -15,7 +15,7 @@
 	url = https://github.com/libimobiledevice/ideviceinstaller.git
 [submodule "libfuse-android"]
 	path = libfuse-android
-	url = https://github.com/Vayu/libfuse-android
+	url = https://github.com/Vayu/libfuse-android.git
 [submodule "libplist"]
 	path = libplist
 	url = https://github.com/libimobiledevice/libplist.git
